@@ -251,7 +251,7 @@ footer {
   grid-template-columns: 1fr;
 }
 
-.site-footer h4 {
+.site-footer h3 {
   font-size: 1rem;
   font-weight: 700;
   margin: 0 0 0.4rem 0;
