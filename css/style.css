@@ -425,3 +425,12 @@ form#connectForm .secondary {
     gap: 1.25rem;
   }
 }
+
+/* 404 image styling */
+.error-img {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 1rem auto 2rem;
+  border-radius: 8px;
+}
